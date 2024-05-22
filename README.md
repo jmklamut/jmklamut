@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Klamut</h1>
-<h3 align="center">A Computer Engineer Undergraduate at the University of Pittsburgh</h3>
+<h3 align="center">A Computer Engineer Graduate Student at the University of Pittsburgh</h3>
 
 - 👨‍💻 All of my projects are available at [https://jmklamut.github.io/Website/](https://jmklamut.github.io/Website/)
 
